@@ -1,0 +1,101 @@
+.arrowBack{
+    display:inline-flex; 
+    align-items: center;
+  }
+  .width-input {
+    width: 323px;
+  }
+  
+  .mat-button-table{
+    background: var(--primary);
+    color: #FFFF;
+    border-radius: 5px;
+    width: 32px !important;
+    height: 29px !important;
+    font-size: 20px !important;
+    line-height: 30px !important;
+    margin-left: 13px;
+  }
+  
+  .mat-column-acoes{
+    border-right: 1.09536px solid #C4C4C4;
+    justify-content: center;
+    flex: 0 0 67px;
+  
+  }
+  .mat-column-nomeStatus {
+    margin-left: 20px;
+    border-right: 1.09536px solid #C4C4C4;
+    flex: 0 0 262px;
+  }
+  .mat-column-ordem  {
+    margin-left: 20px;
+    justify-content: center;
+    flex: 0 0 42px;
+  }
+  
+  /* tabela etapas*/
+  .mat-column-nomeEtapa {
+    margin-left: 20px;
+    border-right: 1.09536px solid #C4C4C4;
+    flex: 0 0 275px;
+  }
+  
+  .mat-column-ordemEtapa {
+    justify-content: center;
+    border-right: 1.09536px solid #C4C4C4;
+    flex: 0 0 93px;
+  }
+  
+  .mat-column-statusEtapa {
+    margin-left: 20px;
+  }
+  
+  .action-button{
+    width: 47px;
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+  }
+  .icon-button{
+    font-size: 16px;
+    margin-top: 1px;
+  }
+  
+  .button {
+    font-size: 16px !important;
+    display: flex;
+    justify-content: center;
+    background-color: var(--primary);
+    width: 22.07px;
+    height: 20px;
+    border-radius: 3.44828px;
+    color: #FFFF;
+    border: none;
+  }
+  
+  .save-button{
+    display: flex;
+    margin-top: 43px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 269px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
